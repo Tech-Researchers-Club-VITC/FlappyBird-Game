@@ -1,7 +1,7 @@
 # Flappy_bird Game
 
 Welcome to the Gesture-Controlled FlapprBird game repository! This unique and entertaining game combines the classic Flappy Bird concept with cutting-edge gesture control using the Mediapipe library. Say goodbye to tapping your screen or keyboard – now you can control your bird's flight with hand gestures!
-
+This game was created with the aid of ChatGPT using sophisticated prompt engineering techniques.
 Features:
 
 Gesture Control: Instead of traditional controls, this game lets you navigate your bird using your hand gestures captured by your webcam. Raise your hand to make the bird fly higher and lower it to descend.
@@ -22,7 +22,7 @@ Easy Setup: Get started quickly with easy setup instructions and dependencies li
 
 This repository contains all the code and assets you need to play and modify the Gesture-Controlled FlapprBird game. Have fun playing and feel free to contribute to improve this exciting project!
 
-Created by K. Darshan, R&D Lead, TRC
+Created by Darshan K., R&D Lead, TRC
 
 --------------------------------------------------------------------------------------------------------------------------
 
